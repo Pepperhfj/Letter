@@ -1,0 +1,24 @@
+p {
+  Font-size: 20px;
+  margin: 0;
+  border-style: dotted;
+  width: 510px;
+  border-color: #D2ADAD;
+  color: #B78080;
+  padding: 23px;
+}
+    
+
+
+button {
+  background-color:white;
+border-style: dotted;
+border-color: #D2ADAD;
+color: #D2ADAD;
+border-width: 3px;
+border-radius: 10px;
+font-size: 15px;
+font-family: serif;
+margin: 30px;
+padding: 14px;
+}
